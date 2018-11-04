@@ -1,0 +1,18 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\New Folder\TetrisScripts\TetrisObject.cs">
+    <Files>
+      <File FileName="..\KnotsAndCrosses\Assets\Scripts\GameController.cs" Line="5" Column="46" />
+      <File FileName="Assets\Scripts\SpawnerScripts\Spawner.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MatrixScripts\MatrixGrid.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuController\GamePlayController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MenuController\MainMenuController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\New Folder\TetrisScripts\TetrisObject.cs" Line="88" Column="7" />
+      <File FileName="Assets\MyRealDad.cs" Line="9" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
